@@ -64,4 +64,5 @@ section.right-panel.is-open{
   visibility: visible;
 }
 
+
 </style>
